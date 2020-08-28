@@ -27,13 +27,13 @@ subtitle = ""
 #  description = "50%"  
   
 [[feature]]
-  icon = "laptop"
-  icon_pack = "ai"
+  icon = "laptop-code"
+  icon_pack = "far"
   name = "Bioinformatics"
 
 [[feature]]
   icon = "chalkboard-teacher"
-  icon_pack = "ai"
+  icon_pack = "far"
   name = "Teaching"
   
 # Uncomment to use emoji icons.
