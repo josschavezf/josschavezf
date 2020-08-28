@@ -29,8 +29,8 @@ bio: I am a Ph.D. Student focused on bioinformatics and software developer.
 
 interests:
 - Bioinformatics
-- R Packages development
 - Genomics
+- R Programming
 - Teaching
 - Community
 
