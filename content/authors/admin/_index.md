@@ -36,10 +36,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biochemestry
+  - course: PhD in Biochemistry
     institution: Instituto de Biotecnologia UNAM
     year: 2017-present
-  - course: MSc in Biochemestry
+  - course: MSc in Biochemistry
     institution: Instituto de Biotecnologia UNAM
     year: 2017
   - course: BSc in Biotechnology Engineer
