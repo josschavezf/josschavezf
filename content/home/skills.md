@@ -25,6 +25,11 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
 #  description = "50%"  
+
+[[feature]]
+  icon = "code"
+  icon_pack = "far"
+  name = "Perl"
   
 [[feature]]
   icon = "laptop-code"
@@ -47,9 +52,9 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 [[feature]]
-  icon = "perl"
-  icon_pack = "custom"
-  name = "Perl"
+#  icon = "perl"
+#  icon_pack = "custom"
+#  name = "Perl"
 #  description = "100%"
 
 +++
