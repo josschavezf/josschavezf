@@ -37,7 +37,7 @@ interests:
 education:
   courses:
   - course: PhD in Biochemestry
-    institution: [Instituto de Biotecnologia UNAM](http://www.ibt.unam.mx)
+    institution: Instituto de Biotecnologia UNAM
     year: 2017-present
   - course: MSc in Biochemestry
     institution: [Instituto de Biotecnologia UNAM](http://www.ibt.unam.mx)
