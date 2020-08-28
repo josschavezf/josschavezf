@@ -40,10 +40,10 @@ education:
     institution: Instituto de Biotecnologia UNAM
     year: 2017-present
   - course: MSc in Biochemestry
-    institution: [Instituto de Biotecnologia UNAM](http://www.ibt.unam.mx)
+    institution: Instituto de Biotecnologia UNAM
     year: 2017
   - course: BSc in Biotechnology Engineer
-    institution: [Instituto Politecnico Nacional](http://www.upiig.ipn.mx)
+    institution: Instituto Politecnico Nacional
     year: 2013
 
 
