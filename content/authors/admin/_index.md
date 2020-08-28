@@ -47,24 +47,6 @@ education:
     year: 2013
 
 
-packages and contributions:
-- [regulonDB](http://github.com/comunidadBioInfo/regutools/), co-author and maintainer 2020.
-- [erba](https://github.com/josschavezf/erba), author and maintainer 2020.
-
-courses and Conferences:
-- Bioconductor Conference [BioC2020](http://bioc2020.bioconductor.org).
-- RStudio Conference [2020](https://rstudio.com/conference/).
-- Bioconductor Conference [BioC2019](http://bioc2019.bioconductor.org).
-- Latin American R/Bioconductor Developers workshop [2019](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/#.XV9Aoi3mGlM). 
-- Latin American R/Bioconductor Developers workshop [2018](http://www.comunidadbioinfo.org/r-bioconductor-developers-workshop-2018/) 
-
-awards:
-- Diversity Scholarship [RStudioConf2020](https://rstudio.com/conference/).
-- Developer Scholarship [BioC2019](http://bioc2019.bioconductor.org).
-- Developer Scholarship [BioC2020](http://bioc2020.bioconductor.org).
-
-
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
