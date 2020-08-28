@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: P.hD. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a P.hD. Student focused on bioinformatics and software developer.
+bio: I am a Ph.D. Student focused on bioinformatics and software developer.
 
 interests:
 - Bioinformatics
@@ -80,7 +80,7 @@ user_groups:
 
 ---
 
-I am a mexican P.hD. Student at the Biotechnology Institute-UNAM in Merino's [Lab](https://biocomputo.ibt.unam.mx) focused on bioinformatics analysis of transcriptional regulators in bacteria. 
+I am a mexican Ph.D. Student at the Biotechnology Institute-UNAM in Merino's [Lab](https://biocomputo.ibt.unam.mx) focused on bioinformatics analysis of transcriptional regulators in bacteria. 
 
 I have used [R](https://www.r-project.org) programming language during the last 4 years and since 2018 started developing my own packages. I have received scholarships from Bioconductor and RStudio to present my work as a developer at BioC Conference 2019 and 2020, and for RStudioConf 2020.
 
