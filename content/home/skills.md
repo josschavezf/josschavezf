@@ -37,6 +37,11 @@ subtitle = ""
   name = "Bioinformatics"
 
 [[feature]]
+  icon = "terminal"
+  icon_pack = "far"
+  name = "Software developer"
+
+[[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "far"
   name = "Teaching"
