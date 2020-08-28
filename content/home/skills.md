@@ -28,12 +28,12 @@ subtitle = ""
   
 [[feature]]
   icon = "laptop"
-  icon_pack = "fab"
+  icon_pack = "ai"
   name = "Bioinformatics"
 
 [[feature]]
   icon = "chalkboard-teacher"
-  icon_pack = "fab"
+  icon_pack = "ai"
   name = "Teaching"
   
 # Uncomment to use emoji icons.
@@ -47,7 +47,7 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 [[feature]]
-  icon = "perl.png"
+  icon = "perl"
   icon_pack = "custom"
   name = "Perl"
 #  description = "100%"
