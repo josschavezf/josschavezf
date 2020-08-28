@@ -18,15 +18,24 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "100%"
+#  description = "100%"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "50%"  
+#  description = "50%"  
   
+[[feature]]
+  icon = "laptop"
+  icon_pack = "fab"
+  name = "Bioinformatics"
 
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fab"
+  name = "Teaching"
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
@@ -41,6 +50,6 @@ subtitle = ""
   icon = "perl.png"
   icon_pack = "custom"
   name = "Perl"
-  description = "100%"
+#  description = "100%"
 
 +++
