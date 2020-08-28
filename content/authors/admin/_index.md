@@ -16,12 +16,12 @@ role: Ph.D. Student
 organizations:
 - name: IBT-UNAM
   url: "http://www.ibt.unam.mx"
-- name: CDSB
-  url: "https://comunidadbioinfo.github.io"
-- name: R-Ladies Cuernavaca 
-  url: "https://twitter.com/RLadiesCuerna"
-- name: Mexican Bioinformatics Network 
-  url: "https://redmexicanadebioinformatica.org"
+#- name: CDSB
+#  url: "https://comunidadbioinfo.github.io"
+# - name: R-Ladies Cuernavaca 
+#   url: "https://twitter.com/RLadiesCuerna"
+# - name: Mexican Bioinformatics Network 
+#   url: "https://redmexicanadebioinformatica.org"
 
 
 # Short bio (displayed in user profile at end of posts)
