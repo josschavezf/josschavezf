@@ -22,23 +22,23 @@ subtitle = ""
 
 [[feature]]
   icon = "code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Perl"
 #  description = "90%"   
   
 [[feature]]
   icon = "laptop-code"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Bioinformatics"
 
 [[feature]]
   icon = "terminal"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Software developer"
 
 [[feature]]
   icon = "chalkboard-teacher"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Teaching"
   
 # Uncomment to use emoji icons.
