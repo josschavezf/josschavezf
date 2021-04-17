@@ -19,17 +19,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
 #  description = "100%"
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-#  description = "50%"  
 
 [[feature]]
   icon = "code"
-  icon_pack = "far"
+  icon_pack = "fab"
   name = "Perl"
+#  description = "90%"   
   
 [[feature]]
   icon = "laptop-code"
