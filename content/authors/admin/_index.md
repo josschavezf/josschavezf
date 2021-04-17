@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joselyn Chávez
+title: Joselyn C. Chávez-Fuentes
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Student focused on bioinformatics and software developer.
+bio: I am a Ph.D. Candidate focused on bioinformatics and software development.
 
 interests:
 - Bioinformatics
@@ -36,13 +36,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biochemistry
+  - course: Ph.D. in Biochemical Sciences
     institution: Instituto de Biotecnologia UNAM
-    year: 2017-present
-  - course: MSc in Biochemistry
+    year: 2017-current
+  - course: M.Sc. in Biochemical Sciences
     institution: Instituto de Biotecnologia UNAM
     year: 2017
-  - course: BSc in Biotechnology Engineer
+  - course: B.Sc. in Biotechnology Engineer
     institution: Instituto Politecnico Nacional
     year: 2013
 
@@ -66,9 +66,9 @@ social:
   link: https://github.com/josschavezf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://josschavezf.github.io/cv/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "joselynchavezf@gmail.com"
@@ -80,8 +80,8 @@ user_groups:
 
 ---
 
-I am a mexican Ph.D. Student at the Biotechnology Institute-UNAM in Merino's [Lab](https://biocomputo.ibt.unam.mx) focused on bioinformatics analysis of transcriptional regulators in bacteria. 
+I am a mexican Ph.D. Candidate at the Biotechnology Institute-UNAM in Merino's [Lab](https://biocomputo.ibt.unam.mx) focused on bioinformatics analysis of transcriptional regulators in bacteria. 
 
-I have used [R](https://www.r-project.org) programming language during the last 4 years and since 2018 started developing my own packages. I have been awarded with scholarships from Bioconductor and RStudio to present my work as a developer at BioC Conference 2019 and 2020, and attend RStudioConf in 2020.
+I have used [R](https://www.r-project.org) programming language during the last 4 years and since 2018 started developing my own packages. I have awarded scholarships from Bioconductor and RStudio to present my work as a developer at BioC Conference 2019 and 2020, and attend RStudioConf in 2020.
 
-I am interested on expanding the community of R users and developers. Recently, I joined the board team of the [Community of Software Developers for Bioinformatics](https://comunidadbioinfo.github.io) and co-founded [R-Ladies Cuernavaca](https://www.meetup.com/es/rladies-cuernavaca/).
+I am interested in expanding the community of R users and developers. Recently, I joined the board team of the [Community of Software Developers for Bioinformatics](https://comunidadbioinfo.github.io), the board team of the [Mexican Network of Bioinformatics](the board team of the [Community of Software Developers for Bioinformatics](https://comunidadbioinfo.github.io)) and co-founded [R-Ladies Cuernavaca](https://rladiesmx.netlify.app).
