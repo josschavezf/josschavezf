@@ -1,0 +1,11 @@
+---
+title: Explorando el poder de la Bioinformática
+author: Joselyn Chávez
+date: '2021-09-23'
+---
+
+
+```{r,echo=FALSE}
+knitr::include_url("https://josschavezf.github.io/presentacion_upiig2021/slides.html")
+```
+
