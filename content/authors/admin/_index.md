@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D.
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: IBT-UNAM
-  url: "http://www.ibt.unam.mx"
+- name: Icahn School of Medicine at Mount Sinai
+  url: "https://icahn.mssm.edu"
 #- name: CDSB
 #  url: "https://comunidadbioinfo.github.io"
 # - name: R-Ladies Cuernavaca 
@@ -25,11 +25,11 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Graduate focused on bioinformatics and software development.
+bio: I'm a Postdoctoral Fellow focused on bioinformatics and software development.
 
 interests:
 - Bioinformatics
-- Genomics
+- Spatial transcriptomics
 - R Programming
 - Teaching
 - Community
@@ -80,8 +80,8 @@ user_groups:
 
 ---
 
-I'm a recent Ph.D. Graduate focused on the study of transcriptional regulation from a bioinformatics approach. 
+<div style="text-align: justify"> I’m a Postdoctoral Fellow at the Icahn School of Medicine at Mount Sinai focused on the development of open source software for spatial transcriptomics.
 
-I have used [R](https://www.r-project.org) during the last 5 years, and since 2018 I started developing my own packages. I have awarded scholarships from Bioconductor and RStudio to present my work as a developer at BioC Conference 2019 and 2020, and to attend RStudioConf in 2020.
+Besides my work’s project, I’m interested in R package development, expanding R communities, and teaching.  As a board member of the Community of Developers in Software for Bioinformatics [CDSB](https://comunidadbioinfo.github.io), the Mexican Network of Bioinformatics [RMB](https://www.redmexicanadebioinformatica.org), and as co-founder of the chapter [R-Ladies Cuernavaca](https://rladiesmx.netlify.app/en/), part of the global initiative R-Ladies, I frequently organize and teach R workshops. Thanks to my interest and work on spreading the programming knowledge, I have been awarded scholarships from RStudio and Bioconductor to present my contributions as a developer on international conferences. 
 
-Besides my research project, I'm interested in expanding the community of R users and developers. I joined the board team of the [Community of Software Developers for Bioinformatics](https://comunidadbioinfo.github.io), the board team of the [Mexican Network of Bioinformatics](https://comunidadbioinfo.github.io) and co-founded [R-Ladies Cuernavaca](https://rladiesmx.netlify.app).
+Recently, I also was part of the organizing committee of the [useR conference 2021](https://user2021.r-project.org) and the [LatinR conference 2021](https://latin-r.com/en). </div>
