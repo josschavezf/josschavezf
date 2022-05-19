@@ -81,9 +81,9 @@ user_groups:
 ---
 
 <div style="text-align: justify"> I’m a Postdoctoral Fellow at the Icahn School of Medicine at Mount Sinai focused on the development of open source software for spatial transcriptomics.
-
+<br>
 
 Besides my work’s project, I’m interested in R package development, expanding R communities, and teaching.  As a board member of the Community of Developers in Software for Bioinformatics [CDSB](https://comunidadbioinfo.github.io), the Mexican Network of Bioinformatics [RMB](https://www.redmexicanadebioinformatica.org), and as co-founder of the chapter [R-Ladies Cuernavaca](https://rladiesmx.netlify.app/en/), part of the global initiative R-Ladies, I frequently organize and teach R workshops. Thanks to my interest and work on spreading the programming knowledge, I have been awarded scholarships from RStudio and Bioconductor to present my contributions as a developer on international conferences. 
-
+<br>
 
 Recently, I also was part of the organizing committee of the [useR conference 2021](https://user2021.r-project.org) and the [LatinR conference 2021](https://latin-r.com/en). </div>
